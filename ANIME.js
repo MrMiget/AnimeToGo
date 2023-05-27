@@ -236,4 +236,4 @@ function animeFetchJSONFromAPI() {
     });
 }
 
-createSleekMenu();
+animeFetchJSONFromAPI();
